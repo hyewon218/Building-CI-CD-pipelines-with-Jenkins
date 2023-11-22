@@ -6,3 +6,4 @@
 3. [Jenkins + Infrastructure as Code와의 연동](https://github.com/hyewon218/Building-CI-CD-pipelines-with-Jenkins/blob/main/docs/03.md)
 4. [Jenkins + Ansible + Kubernetes와의 연동](https://github.com/hyewon218/Building-CI-CD-pipelines-with-Jenkins/blob/main/docs/04.md)
 5. [Advanced Jenkins 사용 1 - Pipeline](https://github.com/hyewon218/Building-CI-CD-pipelines-with-Jenkins/blob/main/docs/05.md)
+6. [Advanced Jenkins 사용 2 - SonarQube, Multi nodes](https://github.com/hyewon218/Building-CI-CD-pipelines-with-Jenkins/blob/main/docs/06.md)
