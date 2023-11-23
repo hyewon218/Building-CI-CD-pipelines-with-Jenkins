@@ -105,8 +105,6 @@
                 <version>3.10.0.2594</version>
             </plugin>
         </plugins>
-
-        <defaultGoal>install</defaultGoal>
     </build>
 
 </project>
