@@ -3,7 +3,7 @@
 <br>
 <br>
 
-<img src="https://github.com/hyewon218/Building-CI-CD-pipelines-with-Jenkins/assets/126750615/2c356a35-6d0a-4967-baae-7797351a43bf" width="90%"/><br>
+<img src="https://github.com/hyewon218/Building-CI-CD-pipelines-with-Jenkins/assets/126750615/2c356a35-6d0a-4967-baae-7797351a43bf" width="100%"/><br>
 
 ## 목차
 1. [DevOps와 CI/CD의 이해](https://github.com/hyewon218/Building-CI-CD-pipelines-with-Jenkins/blob/main/docs/01.md)
