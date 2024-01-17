@@ -1,6 +1,9 @@
 # Jenkins를 이용한 CI/CD Pipeline 구축
 
-<img src="https://github.com/hyewon218/Building-CI-CD-pipelines-with-Jenkins/assets/126750615/e472b621-e1fa-421e-9107-05fe6e2fe24c" width="90%"/><br>
+<br>
+<br>
+
+<img src="https://github.com/hyewon218/Building-CI-CD-pipelines-with-Jenkins/assets/126750615/5c1a8bea-3216-4ab9-a2c9-7aabf2868613" width="90%"/><br>
 
 ## 목차
 1. [DevOps와 CI/CD의 이해](https://github.com/hyewon218/Building-CI-CD-pipelines-with-Jenkins/blob/main/docs/01.md)
